@@ -3,8 +3,7 @@ numpy
 matplotlib
 seaborn
 scipy
-sklearn.linear_model
-sklearn.metrics
+scikit-learn
 ipywidgets
 IPython.display
 
