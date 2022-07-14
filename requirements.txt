@@ -5,5 +5,5 @@ seaborn
 scipy
 scikit-learn
 ipywidgets
-IPython.display
+IPython
 
